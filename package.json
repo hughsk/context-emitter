@@ -4,10 +4,11 @@
   "description": "A simple extension of node's EventEmitter that permits setting the context of emitter events.",
   "main": "index.js",
   "dependencies": {
-    "inherits": "~2.0.1",
+    "inherits": "~2.0.1"
+  },
+  "devDependencies": {
     "tape": "~1.1.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "node test.js"
   },
