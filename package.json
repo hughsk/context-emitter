@@ -1,6 +1,6 @@
 {
   "name": "context-emitter",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A simple extension of node's EventEmitter that permits setting the context of emitter events.",
   "main": "index.js",
   "dependencies": {
