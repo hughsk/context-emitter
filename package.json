@@ -1,0 +1,28 @@
+{
+  "name": "context-emitter",
+  "version": "0.0.0",
+  "description": "A simple extension of node's EventEmitter that permits setting the context of emitter events.",
+  "main": "index.js",
+  "dependencies": {
+    "inherits": "~2.0.1",
+    "tape": "~1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/context-emitter.git"
+  },
+  "keywords": [
+    "events",
+    "emitter",
+    "context",
+    "set",
+    "define"
+  ],
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughskennedy.com/)",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
